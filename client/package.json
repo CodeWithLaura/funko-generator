@@ -14,5 +14,4 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://<usuario>.github.io/<repositorio>"
 }
